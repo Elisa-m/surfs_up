@@ -5,9 +5,11 @@ This analysis evaluates the differences in temperatures between June and Decembe
 
 ## Results
 Here are the June temperatures: 
+
 ![](June_Temps.png)
 
 Here are the December temperatures: 
+
 ![](December_Temps.png)
 
 Here are the key differences in weather between June and December: 
